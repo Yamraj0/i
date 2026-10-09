@@ -1,0 +1,27 @@
+{
+  "name": "pharmora",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Yamraj0/i#readme",
+  "bugs": {
+    "url": "https://github.com/Yamraj0/i/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yamraj0/i.git"
+  },
+  "license": "ISC",
+  "author": "Ojha Group",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.1",
+    "morgan": "^1.12.1"
+  }
+}
